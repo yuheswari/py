@@ -1,0 +1,17 @@
+Heading tag --->h1,h2,h3,h4,h5,h6
+
+h1 big then it low down
+
+paragraph tag ----->for writing more paragraph
+
+pre tag print as it is but print line by line
+
+a tag
+
+link can be add by a tag 
+
+href ="link"
+
+hr ==> horizontal line
+
+br==>leaves new line
